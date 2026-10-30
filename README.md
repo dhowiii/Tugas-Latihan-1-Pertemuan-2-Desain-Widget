@@ -1,17 +1,4 @@
-# tugasalfianb
+<img width="959" height="538" alt="image" src="https://github.com/user-attachments/assets/fc703af5-c0e0-43ff-9ee8-3537ee155c66" /># tugasalfianb
+<img width="954" height="539" alt="image" src="https://github.com/user-attachments/assets/959e590e-8025-49f2-b0c3-17e4f84bb01a" />
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/f5642588-c761-4ecb-821b-cee4f66448a9" />
